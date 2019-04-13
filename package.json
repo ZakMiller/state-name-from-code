@@ -1,0 +1,11 @@
+{
+  "name": "state-name-from-code",
+  "version": "1.0.0",
+  "description": "Gets a state name given the state code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zak Miller",
+  "license": "MIT"
+}
